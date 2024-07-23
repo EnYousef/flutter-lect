@@ -23,8 +23,21 @@
   6. هذه الخطوة **اختيارية** لمن لدية ملفات SDK
        1. ندخل المسار التالي: C:\Users\ComputerWorld\AppData\Local ونتحقق اذا كان يتوفر مجلد باسم Android
        2. اذا كان الملف موجودا نقوم بفك ضغط ملفات SDK فيه وان لم يكن موجودا نقوم بانشاء هذا المجلد وفك ضغط الملفات الى داخله.
-7. تثبيت Android Studio
-8. تثبيت Plugin الخاصة بفلاتر داخل Android Studio من **ملف > الاعدادات > Plugin** ثم نقوم بالبحث عن Flutter ونثبت الخيار الاول.  
+7. تثبيت Android Studio (في حال عدم وجود ملفات SDK او وجود نقص بها سوف تظهر واجهة تطلب الموافقة على تثبيت اداوات SDK قم بالموافقة على ذلك وقد ياخذ التحميل وقت بسبب حجم الملفات)
+8. تثبيت Plugin الخاصة بفلاتر داخل Android Studio من **ملف > الاعدادات > Plugins** ثم نقوم بالبحث عن Flutter ونثبت الخيار الاول.
+9. بعد تحميل Plugins الخاصة بفلاتر نقوم بانشاء مشروع فلاتر من **ملف > جديد > مشروع Fluttr جديد** او ** File > New < New Flutter Project** .
+10. من داخل Android Studio نقوم بانشاء محاكي جديد لتنفيذ المشروع الجديد
+  1. ![image](https://github.com/user-attachments/assets/2d39ac33-4876-4ca9-8588-1c973a7d2597)
+  2. ![image](https://github.com/user-attachments/assets/cbf33f7b-fcf5-4666-8c2f-1c53812e1704)
+  3. ![image](https://github.com/user-attachments/assets/9fac0f61-3c08-41d4-99df-aa5181fc5053)
+  4. ![image](https://github.com/user-attachments/assets/2174dab4-5338-4768-8de7-733b1a1dc290)
+  5. بعد الانتهاء من انشاء المحاكي يظهر المحاكي داخل الواجهة السابقة كما هو موضح بالصورة ونقوم بتشغيله من خلال الزر المحدد عليه.
+  6. ![image](https://github.com/user-attachments/assets/67a7afee-b0af-444f-b3d9-3ba9d6134a00)
+
+
+
+
+
 
 
 
