@@ -1,4 +1,4 @@
-# - اعداد المتطلبات المطلوبة مسبقا:
+# - اعداد المتطلبات المطلوبة مسبقا (اي طالب اخذ الملفات مني ما يحتاج يحمل اي ملف من المذكورة.):
   1. تحميل JDK من الرابط : https://www.oracle.com/java/technologies/downloads/#jdk22-windows
   2. تحميل Git من الرابط : https://git-scm.com/download/win
   3. تحميل Flutter من الرابط: https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_3.22.3-stable.zip
@@ -27,12 +27,17 @@
 8. تثبيت Plugin الخاصة بفلاتر داخل Android Studio من **ملف > الاعدادات > Plugins** ثم نقوم بالبحث عن Flutter ونثبت الخيار الاول.
 9. بعد تحميل Plugins الخاصة بفلاتر نقوم بانشاء مشروع فلاتر من **ملف > جديد > مشروع Fluttr جديد** او ** File > New < New Flutter Project** .
 10. من داخل Android Studio نقوم بانشاء محاكي جديد لتنفيذ المشروع الجديد
-  1. ![image](https://github.com/user-attachments/assets/2d39ac33-4876-4ca9-8588-1c973a7d2597)
-  2. ![image](https://github.com/user-attachments/assets/cbf33f7b-fcf5-4666-8c2f-1c53812e1704)
-  3. ![image](https://github.com/user-attachments/assets/9fac0f61-3c08-41d4-99df-aa5181fc5053)
-  4. ![image](https://github.com/user-attachments/assets/2174dab4-5338-4768-8de7-733b1a1dc290)
-  5. بعد الانتهاء من انشاء المحاكي يظهر المحاكي داخل الواجهة السابقة كما هو موضح بالصورة ونقوم بتشغيله من خلال الزر المحدد عليه.
-  6. ![image](https://github.com/user-attachments/assets/67a7afee-b0af-444f-b3d9-3ba9d6134a00)
+    1. ![image](https://github.com/user-attachments/assets/2d39ac33-4876-4ca9-8588-1c973a7d2597)
+    2. ![image](https://github.com/user-attachments/assets/cbf33f7b-fcf5-4666-8c2f-1c53812e1704)
+    3. ![image](https://github.com/user-attachments/assets/9fac0f61-3c08-41d4-99df-aa5181fc5053)
+    4. ![image](https://github.com/user-attachments/assets/2174dab4-5338-4768-8de7-733b1a1dc290)
+    5. بعد الانتهاء من انشاء المحاكي يظهر المحاكي داخل الواجهة السابقة كما هو موضح بالصورة ونقوم بتشغيله من خلال الزر المحدد عليه.
+    6. ![image](https://github.com/user-attachments/assets/67a7afee-b0af-444f-b3d9-3ba9d6134a00)
+    7. بعد تشغيلة يظهر كما في الصورة التالية وفي حال عدم ظهور المحاكي اضغط على الزر المحدد
+    8. ![image](https://github.com/user-attachments/assets/a3cfba1c-9af0-467f-bc2f-a4ff18af6649)
+  11. بعد عملية انشاء المحاكي وتشغيلة قم بتنفيذ المشروع *هذه العملية تاخذ وقتا طويل نوعا ما وهذه المدة تكون تزيد او تنقص حسب مواصفات الجهاز وحسب سرعة الانترنت لديك* خلال مدة التنفيذ يتم تحميل ملفات Gradle بالاضافة الى اي Tools ناقصة .
+
+
 
 
 
