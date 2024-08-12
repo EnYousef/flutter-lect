@@ -12,7 +12,7 @@
   set right(double value) => left = value - width; // طريقة كتابة ال setter .
   double get bottom => top + height;
   set bottom(double value) => top = value - height;
-  }```
+  }
 - *Extension methods*
   من خلال Extension methods نقدر انه نضيف دالة جديدة لنوع موجود سابقا مثل int او String وغيره هذا الشي يساعد انه نربط الدالة بالنوع المستهدف المثال التالي يوضح طريقة انشاء دالة مرتبطه بالنوع String وظيفتها تتحقق ما اذا كان النص فارغ اي مجرد مسافة او لا:
   ```
